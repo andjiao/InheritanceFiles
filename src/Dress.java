@@ -37,6 +37,7 @@ public class Dress extends Cloth{
         return this.occasion;
     }
 
+    //Der bruges toString metode, så der i terminalen opgives teksten frem for dataens id
     @Override
     public String toString() {
         return super.toString() + " Kjolelængde:"+ this.dressLength + " Occasion:" + this.occasion;
