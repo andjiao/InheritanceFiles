@@ -1,0 +1,10 @@
+I stedet for at lave to klasser, der minder meget om hinanden, kan der gøre brug af mekanismen "inheratance".
+Inhertance gør det muligt at genbruge metoder og attributer fra en anden klasse.
+
+Den klasse der nedarves fra, kaldes for superklassen, mens klassen der arver kaldes for subklasse.
+
+Når subklassen nedarver, bruges nøgleordet extends, da den ikke kun arver tilstand og adfærd, men
+også kan tilføje ny adfærd og tilstand.
+Der er altså mulighed for at udvide adfærd og tilstand i subklassen.
+
+
